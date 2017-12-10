@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_gravity="center"
+    android:background="@color/tw__transparent">
+
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/tw__transparent">
+    <android.support.v7.widget.CardView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:elevation="25dp"
+        android:id="@+id/view3"
+        app:cardCornerRadius="50dp"
+        android:layout_marginEnd="@dimen/activity_horizontal_margin"
+        android:layout_marginTop="@dimen/dimen_56dp"
+        android:innerRadius="0dp"
+        android:layout_marginStart="@dimen/activity_horizontal_margin"
+        android:shape="ring"
+        app:layout_anchor="@id/relativeLayout"
+        app:layout_anchorGravity="end"
+        android:thicknessRatio="1.9"
+        android:background="@drawable/fab"
+        tools:targetApi="lollipop">
+        <ImageView
+            android:layout_height="100dp"
+            android:layout_width="match_parent"
+            android:id="@+id/imageCircle"
+            android:scaleType="fitXY"
+            android:src="@drawable/profile_pic"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true">
+        </ImageView>
+    </android.support.v7.widget.CardView>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ACTOR"
+        android:id="@+id/titleCircle"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:layout_marginTop="@dimen/activity_horizontal_margin"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_marginStart="30dp"
+        android:textSize="25sp"
+        />
+</LinearLayout>
+
+</android.support.v7.widget.CardView>
+
+

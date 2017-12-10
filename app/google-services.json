@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "819439165235",
+    "firebase_url": "https://core-guard-148913.firebaseio.com",
+    "project_id": "core-guard-148913",
+    "storage_bucket": "core-guard-148913.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819439165235:android:a4b26c011164ec02",
+        "android_client_info": {
+          "package_name": "dell.saveanimals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819439165235-jdsjdq1d1nipn44j3tuqnbhscnev9kj7.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "819439165235-6qvtl1761vb397fun7seqe8b10bss1h0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dell.saveanimals",
+            "certificate_hash": "7fcdc75d51764c6b89e37fbe49213c81b34ace83"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATwM6XAV2aDn7fe2nmdXbxm1kvR9NG4Tc"
+        },
+        {
+          "current_key": "AIzaSyDBeNYXURPoHzOJqnzTWRkCR_jWYT6RS5U"
+        },
+        {
+          "current_key": "AIzaSyCiDzTKKHC4WO6p-dQXIMIOadXaQRuSgI0"
+        },
+        {
+          "current_key": "AIzaSyCtGXsI2Wq3AfxXK69IkkupNJUqniMiKNc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819439165235-jdsjdq1d1nipn44j3tuqnbhscnev9kj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819439165235:android:141b306bd484b2c5",
+        "android_client_info": {
+          "package_name": "dell.trialsecond"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819439165235-dsbu02emfi0dgsjvro90q2lco6sbarkn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dell.trialsecond",
+            "certificate_hash": "7fcdc75d51764c6b89e37fbe49213c81b34ace83"
+          }
+        },
+        {
+          "client_id": "819439165235-jdsjdq1d1nipn44j3tuqnbhscnev9kj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATwM6XAV2aDn7fe2nmdXbxm1kvR9NG4Tc"
+        },
+        {
+          "current_key": "AIzaSyDBeNYXURPoHzOJqnzTWRkCR_jWYT6RS5U"
+        },
+        {
+          "current_key": "AIzaSyCiDzTKKHC4WO6p-dQXIMIOadXaQRuSgI0"
+        },
+        {
+          "current_key": "AIzaSyCtGXsI2Wq3AfxXK69IkkupNJUqniMiKNc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819439165235-jdsjdq1d1nipn44j3tuqnbhscnev9kj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
